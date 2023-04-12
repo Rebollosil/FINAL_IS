@@ -1,0 +1,10 @@
+UNIDAD 7 - Tema 1
+Diego Martin Luna
+•
+10:51 (Editado: 11:08)
+Bases de datos no relacionales.
+Conceptos básicos y tipos.
+Modelo de datos.
+JSON.
+Algunos motores y sus características.
+MongoDB

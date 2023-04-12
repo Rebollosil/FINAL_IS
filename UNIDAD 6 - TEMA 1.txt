@@ -1,0 +1,14 @@
+UNIDAD 6 - Tema 1
+Diego Martin Luna
+•
+17 mar (Editado: 17 mar)
+•Cloud (Nube).
+IaaS (Infraestructura como servicio).
+PaaS (Plataforma como servicio).
+SaaS (Software como servicio).
+•Guía 1: AWS.
+Creación de cuenta – MFA – Alarma de gasto.
+•Guía 2: Google Cloud Compute Engine.
+Instalación de Servidor HTTP Apache.
+•Guía 3: Microsoft Azure Virtual Machine.
+Instalación de Servidor HTTP IIS.
